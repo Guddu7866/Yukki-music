@@ -105,8 +105,7 @@ $ bash start
 
 - [Telegram Channel](https://t.me/Rockerz_Updates)
 - [Telegram Support Group](https://t.me/Rockerz_Support)
-- [Contact Owner](https://t.me/xmartperson)
-
+- [Contact Owner](https://t.me/iam_your_heart4)
 
 ## License
 
