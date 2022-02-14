@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/40748b9107dac650b57f8.jpg" alt="ICON" </p>
+<p align="center"><img src="https://telegra.ph/file/cb157f1f48cb6f0ee4eb1.jpg" alt="ICON" </p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
@@ -103,8 +103,8 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/Rockerz_Updates)
-- [Telegram Support Group](https://t.me/Rockerz_Support)
+- [Telegram Channel](https://t.me/iam_your_heart4)
+- [Telegram Support Group](https://t.me/iam_your_heart4)
 - [Contact Owner](https://t.me/iam_your_heart4)
 
 ## License
