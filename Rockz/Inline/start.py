@@ -55,7 +55,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 Support", url=f"https://t.me/Blaze_Support"
+                    text="📨 OWNER", url=f"https://t.me/iam_your_heart4"
                 ),
             ],
         ]
@@ -74,7 +74,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="Updates 📨", url=f"https://t.me/The_Blaze_Network"
+                    text="HELPLINE 📨", url=f"https://t.me/iam_your_heart4"
                 ),
             ],
         ]
@@ -93,10 +93,10 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 Support", url=f"https://t.me/UNIQUE_SOCIETY"
+                    text="📨 OWNER", url=f"https://t.me/iam_your_heart4"
                 ),
                 InlineKeyboardButton(
-                    text="Updates 📨", url=f"https://t.me/THE_BLAZE_NETWORK"
+                    text="HELPLINE 📨", url=f"https://t.me/iam_your_heart4"
                 ),
             ],
         ]
@@ -154,7 +154,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="Updates 📨", url=f"https://t.me/Blaze_Support"
+                    text="OWNER 📨", url=f"https://t.me/iam_your_heart4"
                 ),
             ],
         ]
@@ -174,10 +174,10 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 Support", url=f"https://t.me/UNIQUE_SOCIETY"
+                    text="📨 HELPLINE", url=f"https://t.me/iam_your_heart4"
                 ),
                 InlineKeyboardButton(
-                    text="Updates 📨", url=f"https://t.me/BLAZE_support"
+                    text="OWNER 📨", url=f"https://t.me/iam_your_heart4"
                 ),
             ],
         ]
